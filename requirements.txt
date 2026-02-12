@@ -1,0 +1,12 @@
+# Core notebook dependencies (minimum baseline).
+# Some notebook sections may require additional packages depending on which parts you run.
+
+beautifulsoup4
+pandas
+pymongo
+random-user-agent
+requests
+tqdm
+wikipedia
+yfinance
+
